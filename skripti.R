@@ -1,1 +1,1 @@
-print("hello Sweden");
+print("hello Norway");
